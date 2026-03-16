@@ -1,0 +1,51 @@
+id,product_name,category,price,supplier
+1,Wireless Router,Electronics,388.04,HomeBasics
+2,Bluetooth Headphones,Electronics,75.37,HomeBasics
+3,Backpack,Fashion,277.55,StyleInc
+4,Curtains,Home,416.89,GlobalSupply
+5,Building Blocks,Toys,490.6,GlobalSupply
+6,Cookies,Groceries,319.55,StyleInc
+7,Air Purifier,Home,40.92,GlobalSupply
+8,Tablet,Electronics,28.12,StyleInc
+9,Kite,Toys,31.47,StyleInc
+10,Olive Oil,Groceries,444.04,HomeBasics
+11,Tomato Sauce,Groceries,467.35,ToyUniverse
+12,Milk,Groceries,205.13,ToyUniverse
+13,Laptop,Electronics,241.97,TechCorp
+14,Pasta,Groceries,379.11,StyleInc
+15,Plush Bear,Toys,150.19,TechCorp
+16,Monitor,Electronics,434.24,HomeBasics
+17,Boots,Fashion,143.88,HomeBasics
+18,Bookshelf,Home,224.11,GlobalSupply
+19,Smartphone,Electronics,374.22,GlobalSupply
+20,Hoodie,Fashion,176.13,StyleInc
+21,T-Shirt,Fashion,253.14,GlobalSupply
+22,Action Figure,Toys,190.0,ToyUniverse
+23,Coffee Beans,Groceries,140.69,TechCorp
+24,Jacket,Fashion,366.27,TechCorp
+25,Gaming Console,Electronics,221.0,StyleInc
+26,Vacuum Cleaner,Home,277.28,HomeBasics
+27,Desk Lamp,Home,60.27,HomeBasics
+28,Smartwatch,Electronics,333.85,HomeBasics
+29,Cap,Fashion,228.5,GlobalSupply
+30,Board Game,Toys,91.66,GlobalSupply
+31,Microwave,Home,182.26,TechCorp
+32,Coffee Maker,Home,366.14,HomeBasics
+33,Sunglasses,Fashion,311.28,GlobalSupply
+34,Chocolate Bar,Groceries,144.53,TechCorp
+35,Toy Car,Toys,46.77,GlobalSupply
+36,4K TV,Electronics,188.02,StyleInc
+37,Drone Toy,Toys,476.87,StyleInc
+38,Office Chair,Home,425.85,GlobalSupply
+39,Cereal,Groceries,27.05,TechCorp
+40,Jeans,Fashion,125.64,HomeBasics
+41,Dress,Fashion,187.45,ToyUniverse
+42,Mattress,Home,25.87,StyleInc
+43,Puzzle,Toys,342.74,HomeBasics
+44,Portable Speaker,Electronics,192.29,TechCorp
+45,Blender,Home,291.22,ToyUniverse
+46,Rice Pack,Groceries,189.81,HomeBasics
+47,Doll,Toys,328.28,StyleInc
+48,Orange Juice,Groceries,480.65,TechCorp
+49,Water Gun,Toys,370.48,GlobalSupply
+50,Sneakers,Fashion,263.7,ToyUniverse

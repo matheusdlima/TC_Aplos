@@ -1,0 +1,1017 @@
+{
+    "revenue_by_region": [
+        {
+            "region": "East",
+            "total_value": 818675.43
+        },
+        {
+            "region": "Central",
+            "total_value": 796353.39
+        },
+        {
+            "region": "West",
+            "total_value": 782563.6900000001
+        },
+        {
+            "region": "North",
+            "total_value": 687749.22
+        },
+        {
+            "region": "South",
+            "total_value": 672969.87
+        }
+    ],
+    "top_selling_products": [
+        {
+            "product_id": "18",
+            "product_name": "Bookshelf",
+            "category": "Home",
+            "quantity": 475
+        },
+        {
+            "product_id": "31",
+            "product_name": "Microwave",
+            "category": "Home",
+            "quantity": 473
+        },
+        {
+            "product_id": "43",
+            "product_name": "Puzzle",
+            "category": "Toys",
+            "quantity": 473
+        },
+        {
+            "product_id": "26",
+            "product_name": "Vacuum Cleaner",
+            "category": "Home",
+            "quantity": 464
+        },
+        {
+            "product_id": "9",
+            "product_name": "Kite",
+            "category": "Toys",
+            "quantity": 462
+        }
+    ],
+    "sales_by_category": [
+        {
+            "category": "Groceries",
+            "total_value": 1101666.99
+        },
+        {
+            "category": "Toys",
+            "total_value": 1041150.21
+        },
+        {
+            "category": "Home",
+            "total_value": 969778.39
+        },
+        {
+            "category": "Electronics",
+            "total_value": 362291.37
+        },
+        {
+            "category": "Fashion",
+            "total_value": 283424.64
+        }
+    ],
+    "top_buyers": [
+        {
+            "customer_id": "34879e41-1a9c-472a-8eb9-047dba2ac3d9",
+            "name": "Cynthia Vasquez",
+            "age": 50.0,
+            "region": "North",
+            "total_value": 16687.72
+        },
+        {
+            "customer_id": "ec993c80-0b7d-4856-b0c2-360025545c1a",
+            "name": "Christina Brooks",
+            "age": 42.0,
+            "region": "East",
+            "total_value": 16685.03
+        },
+        {
+            "customer_id": "cfdfc6f9-eb0f-427c-a82a-3879f2b5a7ea",
+            "name": "Darryl Acosta",
+            "age": 38.0,
+            "region": "West",
+            "total_value": 16155.06
+        },
+        {
+            "customer_id": "89a3c811-895c-4fde-a3fa-40691519fd38",
+            "name": "Diamond Collins",
+            "age": 32.0,
+            "region": "Central",
+            "total_value": 15328.04
+        },
+        {
+            "customer_id": "aab612c9-415d-474a-b5a6-69814104a8b5",
+            "name": "Robert Santana",
+            "age": 20.0,
+            "region": "Central",
+            "total_value": 14121.630000000001
+        }
+    ],
+    "recent_sales": [
+        {
+            "date": "2026-03-14",
+            "name": "Ashley Singleton",
+            "product_name": "Board Game",
+            "category": "Toys",
+            "region": "East",
+            "quantity": 1,
+            "total_value": 91.66
+        },
+        {
+            "date": "2026-03-14",
+            "name": "Victor Brown",
+            "product_name": "Toy Car",
+            "category": "Toys",
+            "region": "North",
+            "quantity": 7,
+            "total_value": 327.39000000000004
+        },
+        {
+            "date": "2026-03-14",
+            "name": "Brittney Hernandez",
+            "product_name": "Wireless Router",
+            "category": "Electronics",
+            "region": "South",
+            "quantity": 1,
+            "total_value": 388.04
+        },
+        {
+            "date": "2026-03-14",
+            "name": "Robert Stevens",
+            "product_name": "Building Blocks",
+            "category": "Toys",
+            "region": "South",
+            "quantity": 3,
+            "total_value": 1471.8000000000002
+        },
+        {
+            "date": "2026-03-14",
+            "name": "Michael Bowen",
+            "product_name": "Sneakers",
+            "category": "Fashion",
+            "region": "West",
+            "quantity": 2,
+            "total_value": 527.4
+        },
+        {
+            "date": "2026-03-13",
+            "name": "Nancy Wyatt",
+            "product_name": "Smartwatch",
+            "category": "Electronics",
+            "region": "South",
+            "quantity": 2,
+            "total_value": 667.7
+        },
+        {
+            "date": "2026-03-13",
+            "name": "Barbara Todd",
+            "product_name": "Air Purifier",
+            "category": "Home",
+            "region": "West",
+            "quantity": 6,
+            "total_value": 245.52
+        },
+        {
+            "date": "2026-03-13",
+            "name": "Paul Thompson",
+            "product_name": "Cereal",
+            "category": "Groceries",
+            "region": "East",
+            "quantity": 2,
+            "total_value": 54.1
+        },
+        {
+            "date": "2026-03-13",
+            "name": "David Garcia",
+            "product_name": "Mattress",
+            "category": "Home",
+            "region": "Central",
+            "quantity": 1,
+            "total_value": 25.87
+        },
+        {
+            "date": "2026-03-13",
+            "name": "Justin Green",
+            "product_name": "Cookies",
+            "category": "Groceries",
+            "region": "West",
+            "quantity": 3,
+            "total_value": 958.6500000000001
+        },
+        {
+            "date": "2026-03-13",
+            "name": "Kenneth Sanchez MD",
+            "product_name": "Tablet",
+            "category": "Electronics",
+            "region": "South",
+            "quantity": 1,
+            "total_value": 28.12
+        },
+        {
+            "date": "2026-03-13",
+            "name": "Amy Grant",
+            "product_name": "Smartphone",
+            "category": "Electronics",
+            "region": "South",
+            "quantity": 1,
+            "total_value": 374.22
+        },
+        {
+            "date": "2026-03-13",
+            "name": "Sandra Martinez",
+            "product_name": "Building Blocks",
+            "category": "Toys",
+            "region": "South",
+            "quantity": 10,
+            "total_value": 4906.0
+        },
+        {
+            "date": "2026-03-12",
+            "name": "Kathryn Cain",
+            "product_name": "Coffee Maker",
+            "category": "Home",
+            "region": "Central",
+            "quantity": 1,
+            "total_value": 366.14
+        },
+        {
+            "date": "2026-03-12",
+            "name": "Aaron Jennings",
+            "product_name": "Microwave",
+            "category": "Home",
+            "region": "Central",
+            "quantity": 1,
+            "total_value": 182.26
+        },
+        {
+            "date": "2026-03-12",
+            "name": "Mike Maxwell",
+            "product_name": "Rice Pack",
+            "category": "Groceries",
+            "region": "East",
+            "quantity": 2,
+            "total_value": 379.62
+        },
+        {
+            "date": "2026-03-12",
+            "name": "Joseph Glover",
+            "product_name": "Curtains",
+            "category": "Home",
+            "region": "West",
+            "quantity": 2,
+            "total_value": 833.78
+        },
+        {
+            "date": "2026-03-12",
+            "name": "Ryan Gonzalez",
+            "product_name": "Kite",
+            "category": "Toys",
+            "region": "Central",
+            "quantity": 4,
+            "total_value": 125.88
+        },
+        {
+            "date": "2026-03-12",
+            "name": "Annette Melton",
+            "product_name": "Vacuum Cleaner",
+            "category": "Home",
+            "region": "West",
+            "quantity": 1,
+            "total_value": 277.28
+        },
+        {
+            "date": "2026-03-12",
+            "name": "Jordan Chambers",
+            "product_name": "Water Gun",
+            "category": "Toys",
+            "region": "East",
+            "quantity": 3,
+            "total_value": 1111.44
+        },
+        {
+            "date": "2026-03-12",
+            "name": "Christina Collins",
+            "product_name": "Puzzle",
+            "category": "Toys",
+            "region": "Central",
+            "quantity": 9,
+            "total_value": 3084.66
+        },
+        {
+            "date": "2026-03-12",
+            "name": "Kurt Hurley",
+            "product_name": "Air Purifier",
+            "category": "Home",
+            "region": "Central",
+            "quantity": 5,
+            "total_value": 204.60000000000002
+        },
+        {
+            "date": "2026-03-12",
+            "name": "Nancy Stewart",
+            "product_name": "Coffee Beans",
+            "category": "Groceries",
+            "region": "West",
+            "quantity": 2,
+            "total_value": 281.38
+        },
+        {
+            "date": "2026-03-12",
+            "name": "Shannon Yu",
+            "product_name": "Mattress",
+            "category": "Home",
+            "region": "Central",
+            "quantity": 2,
+            "total_value": 51.74
+        },
+        {
+            "date": "2026-03-11",
+            "name": "Denise Whitehead",
+            "product_name": "Chocolate Bar",
+            "category": "Groceries",
+            "region": "West",
+            "quantity": 8,
+            "total_value": 1156.24
+        },
+        {
+            "date": "2026-03-11",
+            "name": "Miss Anna Estes",
+            "product_name": "Bookshelf",
+            "category": "Home",
+            "region": "South",
+            "quantity": 1,
+            "total_value": 224.11
+        },
+        {
+            "date": "2026-03-11",
+            "name": "Vernon Huff",
+            "product_name": "Desk Lamp",
+            "category": "Home",
+            "region": "North",
+            "quantity": 1,
+            "total_value": 60.27
+        },
+        {
+            "date": "2026-03-11",
+            "name": "Jordan Edwards",
+            "product_name": "Gaming Console",
+            "category": "Electronics",
+            "region": "South",
+            "quantity": 1,
+            "total_value": 221.0
+        },
+        {
+            "date": "2026-03-11",
+            "name": "Gary Wells",
+            "product_name": "Curtains",
+            "category": "Home",
+            "region": "West",
+            "quantity": 2,
+            "total_value": 833.78
+        },
+        {
+            "date": "2026-03-11",
+            "name": "Albert Morse",
+            "product_name": "Laptop",
+            "category": "Electronics",
+            "region": "South",
+            "quantity": 3,
+            "total_value": 725.91
+        },
+        {
+            "date": "2026-03-11",
+            "name": "Antonio Goodwin",
+            "product_name": "Board Game",
+            "category": "Toys",
+            "region": "Central",
+            "quantity": 3,
+            "total_value": 274.98
+        },
+        {
+            "date": "2026-03-11",
+            "name": "Courtney Hayes",
+            "product_name": "Cereal",
+            "category": "Groceries",
+            "region": "West",
+            "quantity": 1,
+            "total_value": 27.05
+        },
+        {
+            "date": "2026-03-11",
+            "name": "Theresa Miller",
+            "product_name": "Blender",
+            "category": "Home",
+            "region": "North",
+            "quantity": 5,
+            "total_value": 1456.1000000000001
+        },
+        {
+            "date": "2026-03-11",
+            "name": "Jonathon Johnson",
+            "product_name": "Doll",
+            "category": "Toys",
+            "region": "South",
+            "quantity": 5,
+            "total_value": 1641.3999999999999
+        },
+        {
+            "date": "2026-03-11",
+            "name": "Matthew Baker",
+            "product_name": "Cereal",
+            "category": "Groceries",
+            "region": "Central",
+            "quantity": 1,
+            "total_value": 27.05
+        },
+        {
+            "date": "2026-03-11",
+            "name": "Dawn Wyatt",
+            "product_name": "Plush Bear",
+            "category": "Toys",
+            "region": "Central",
+            "quantity": 2,
+            "total_value": 300.38
+        },
+        {
+            "date": "2026-03-10",
+            "name": "William Moon IV",
+            "product_name": "Mattress",
+            "category": "Home",
+            "region": "Central",
+            "quantity": 3,
+            "total_value": 77.61
+        },
+        {
+            "date": "2026-03-10",
+            "name": "Aaron Jennings",
+            "product_name": "Desk Lamp",
+            "category": "Home",
+            "region": "Central",
+            "quantity": 1,
+            "total_value": 60.27
+        },
+        {
+            "date": "2026-03-10",
+            "name": "Scott Gordon",
+            "product_name": "Sunglasses",
+            "category": "Fashion",
+            "region": "Central",
+            "quantity": 1,
+            "total_value": 311.28
+        },
+        {
+            "date": "2026-03-10",
+            "name": "Patrick Moore",
+            "product_name": "Mattress",
+            "category": "Home",
+            "region": "Central",
+            "quantity": 2,
+            "total_value": 51.74
+        },
+        {
+            "date": "2026-03-10",
+            "name": "Beverly Silva",
+            "product_name": "Cap",
+            "category": "Fashion",
+            "region": "East",
+            "quantity": 5,
+            "total_value": 1142.5
+        },
+        {
+            "date": "2026-03-10",
+            "name": "Daniel Holt",
+            "product_name": "Vacuum Cleaner",
+            "category": "Home",
+            "region": "Central",
+            "quantity": 2,
+            "total_value": 554.56
+        },
+        {
+            "date": "2026-03-10",
+            "name": "Sydney Robles",
+            "product_name": "Desk Lamp",
+            "category": "Home",
+            "region": "East",
+            "quantity": 1,
+            "total_value": 60.27
+        },
+        {
+            "date": "2026-03-10",
+            "name": "Douglas Kirk",
+            "product_name": "Kite",
+            "category": "Toys",
+            "region": "West",
+            "quantity": 3,
+            "total_value": 94.41
+        },
+        {
+            "date": "2026-03-10",
+            "name": "Gina Beard",
+            "product_name": "Coffee Maker",
+            "category": "Home",
+            "region": "North",
+            "quantity": 1,
+            "total_value": 366.14
+        },
+        {
+            "date": "2026-03-10",
+            "name": "Michael Martin",
+            "product_name": "Puzzle",
+            "category": "Toys",
+            "region": "East",
+            "quantity": 2,
+            "total_value": 685.48
+        },
+        {
+            "date": "2026-03-09",
+            "name": "Taylor Heath",
+            "product_name": "Jacket",
+            "category": "Fashion",
+            "region": "South",
+            "quantity": 1,
+            "total_value": 366.27
+        },
+        {
+            "date": "2026-03-09",
+            "name": "Raymond Chapman",
+            "product_name": "Cap",
+            "category": "Fashion",
+            "region": "North",
+            "quantity": 1,
+            "total_value": 228.5
+        },
+        {
+            "date": "2026-03-09",
+            "name": "Miranda Zuniga",
+            "product_name": "Milk",
+            "category": "Groceries",
+            "region": "North",
+            "quantity": 2,
+            "total_value": 410.26
+        },
+        {
+            "date": "2026-03-09",
+            "name": "Wesley Browning",
+            "product_name": "Kite",
+            "category": "Toys",
+            "region": "Central",
+            "quantity": 1,
+            "total_value": 31.47
+        },
+        {
+            "date": "2026-03-09",
+            "name": "Morgan Valencia",
+            "product_name": "Air Purifier",
+            "category": "Home",
+            "region": "Central",
+            "quantity": 1,
+            "total_value": 40.92
+        },
+        {
+            "date": "2026-03-09",
+            "name": "Donna Marshall",
+            "product_name": "Mattress",
+            "category": "Home",
+            "region": "West",
+            "quantity": 1,
+            "total_value": 25.87
+        },
+        {
+            "date": "2026-03-09",
+            "name": "Dawn Underwood",
+            "product_name": "Mattress",
+            "category": "Home",
+            "region": "North",
+            "quantity": 2,
+            "total_value": 51.74
+        },
+        {
+            "date": "2026-03-09",
+            "name": "Cindy Hayes",
+            "product_name": "Curtains",
+            "category": "Home",
+            "region": "West",
+            "quantity": 1,
+            "total_value": 416.89
+        },
+        {
+            "date": "2026-03-09",
+            "name": "Tina Hall",
+            "product_name": "Office Chair",
+            "category": "Home",
+            "region": "West",
+            "quantity": 1,
+            "total_value": 425.85
+        },
+        {
+            "date": "2026-03-09",
+            "name": "Christine Henry",
+            "product_name": "Building Blocks",
+            "category": "Toys",
+            "region": "Central",
+            "quantity": 2,
+            "total_value": 981.2
+        },
+        {
+            "date": "2026-03-09",
+            "name": "Suzanne Jones",
+            "product_name": "Action Figure",
+            "category": "Toys",
+            "region": "East",
+            "quantity": 1,
+            "total_value": 190.0
+        },
+        {
+            "date": "2026-03-09",
+            "name": "Brandon Hamilton",
+            "product_name": "Curtains",
+            "category": "Home",
+            "region": "North",
+            "quantity": 1,
+            "total_value": 416.89
+        },
+        {
+            "date": "2026-03-09",
+            "name": "Julia Wilson",
+            "product_name": "Plush Bear",
+            "category": "Toys",
+            "region": "East",
+            "quantity": 3,
+            "total_value": 450.57
+        },
+        {
+            "date": "2026-03-09",
+            "name": "Ryan Parker",
+            "product_name": "Doll",
+            "category": "Toys",
+            "region": "South",
+            "quantity": 1,
+            "total_value": 328.28
+        },
+        {
+            "date": "2026-03-09",
+            "name": "Javier Johnson",
+            "product_name": "Boots",
+            "category": "Fashion",
+            "region": "East",
+            "quantity": 1,
+            "total_value": 143.88
+        },
+        {
+            "date": "2026-03-08",
+            "name": "Michelle Krause",
+            "product_name": "Building Blocks",
+            "category": "Toys",
+            "region": "Central",
+            "quantity": 3,
+            "total_value": 1471.8000000000002
+        },
+        {
+            "date": "2026-03-08",
+            "name": "Adam Brooks",
+            "product_name": "Toy Car",
+            "category": "Toys",
+            "region": "East",
+            "quantity": 8,
+            "total_value": 374.16
+        },
+        {
+            "date": "2026-03-08",
+            "name": "Cody Reid",
+            "product_name": "Coffee Maker",
+            "category": "Home",
+            "region": "Central",
+            "quantity": 1,
+            "total_value": 366.14
+        },
+        {
+            "date": "2026-03-08",
+            "name": "Kristina Rivera",
+            "product_name": "Curtains",
+            "category": "Home",
+            "region": "North",
+            "quantity": 1,
+            "total_value": 416.89
+        },
+        {
+            "date": "2026-03-08",
+            "name": "Shannon Cannon",
+            "product_name": "Chocolate Bar",
+            "category": "Groceries",
+            "region": "North",
+            "quantity": 4,
+            "total_value": 578.12
+        },
+        {
+            "date": "2026-03-08",
+            "name": "Jeremy Baker",
+            "product_name": "Toy Car",
+            "category": "Toys",
+            "region": "East",
+            "quantity": 4,
+            "total_value": 187.08
+        },
+        {
+            "date": "2026-03-08",
+            "name": "Holly Valentine",
+            "product_name": "Mattress",
+            "category": "Home",
+            "region": "East",
+            "quantity": 5,
+            "total_value": 129.35
+        },
+        {
+            "date": "2026-03-08",
+            "name": "Linda Carr",
+            "product_name": "Curtains",
+            "category": "Home",
+            "region": "West",
+            "quantity": 2,
+            "total_value": 833.78
+        },
+        {
+            "date": "2026-03-07",
+            "name": "Anna Ross",
+            "product_name": "Pasta",
+            "category": "Groceries",
+            "region": "East",
+            "quantity": 1,
+            "total_value": 379.11
+        },
+        {
+            "date": "2026-03-07",
+            "name": "Daniel Fox",
+            "product_name": "Pasta",
+            "category": "Groceries",
+            "region": "Central",
+            "quantity": 1,
+            "total_value": 379.11
+        },
+        {
+            "date": "2026-03-07",
+            "name": "Tiffany Wilson",
+            "product_name": "Gaming Console",
+            "category": "Electronics",
+            "region": "South",
+            "quantity": 7,
+            "total_value": 1547.0
+        },
+        {
+            "date": "2026-03-07",
+            "name": "Karen Ortiz",
+            "product_name": "Vacuum Cleaner",
+            "category": "Home",
+            "region": "North",
+            "quantity": 1,
+            "total_value": 277.28
+        },
+        {
+            "date": "2026-03-07",
+            "name": "Bailey Hall",
+            "product_name": "Coffee Beans",
+            "category": "Groceries",
+            "region": "North",
+            "quantity": 3,
+            "total_value": 422.07
+        },
+        {
+            "date": "2026-03-07",
+            "name": "Patricia Hayes",
+            "product_name": "Puzzle",
+            "category": "Toys",
+            "region": "Central",
+            "quantity": 1,
+            "total_value": 342.74
+        },
+        {
+            "date": "2026-03-07",
+            "name": "Rhonda Martinez",
+            "product_name": "Bookshelf",
+            "category": "Home",
+            "region": "North",
+            "quantity": 1,
+            "total_value": 224.11
+        },
+        {
+            "date": "2026-03-07",
+            "name": "Zachary Schmidt",
+            "product_name": "Desk Lamp",
+            "category": "Home",
+            "region": "East",
+            "quantity": 8,
+            "total_value": 482.16
+        },
+        {
+            "date": "2026-03-07",
+            "name": "Cindy Hayes",
+            "product_name": "Kite",
+            "category": "Toys",
+            "region": "West",
+            "quantity": 2,
+            "total_value": 62.94
+        },
+        {
+            "date": "2026-03-07",
+            "name": "Savannah Garcia",
+            "product_name": "Chocolate Bar",
+            "category": "Groceries",
+            "region": "North",
+            "quantity": 2,
+            "total_value": 289.06
+        },
+        {
+            "date": "2026-03-07",
+            "name": "Dean Young",
+            "product_name": "Dress",
+            "category": "Fashion",
+            "region": "East",
+            "quantity": 9,
+            "total_value": 1687.05
+        },
+        {
+            "date": "2026-03-07",
+            "name": "Dawn Underwood",
+            "product_name": "Mattress",
+            "category": "Home",
+            "region": "North",
+            "quantity": 1,
+            "total_value": 25.87
+        },
+        {
+            "date": "2026-03-07",
+            "name": "Vanessa Santiago",
+            "product_name": "Pasta",
+            "category": "Groceries",
+            "region": "Central",
+            "quantity": 1,
+            "total_value": 379.11
+        },
+        {
+            "date": "2026-03-07",
+            "name": "Francis Robinson",
+            "product_name": "Vacuum Cleaner",
+            "category": "Home",
+            "region": "West",
+            "quantity": 1,
+            "total_value": 277.28
+        },
+        {
+            "date": "2026-03-07",
+            "name": "Angela Vasquez",
+            "product_name": "Desk Lamp",
+            "category": "Home",
+            "region": "East",
+            "quantity": 1,
+            "total_value": 60.27
+        },
+        {
+            "date": "2026-03-07",
+            "name": "Terry Ward",
+            "product_name": "Board Game",
+            "category": "Toys",
+            "region": "South",
+            "quantity": 1,
+            "total_value": 91.66
+        },
+        {
+            "date": "2026-03-07",
+            "name": "Albert Morse",
+            "product_name": "Portable Speaker",
+            "category": "Electronics",
+            "region": "South",
+            "quantity": 1,
+            "total_value": 192.29
+        },
+        {
+            "date": "2026-03-06",
+            "name": "Jason Lynn Jr.",
+            "product_name": "Backpack",
+            "category": "Fashion",
+            "region": "Central",
+            "quantity": 1,
+            "total_value": 277.55
+        },
+        {
+            "date": "2026-03-06",
+            "name": "Ann Dixon",
+            "product_name": "Building Blocks",
+            "category": "Toys",
+            "region": "East",
+            "quantity": 5,
+            "total_value": 2453.0
+        },
+        {
+            "date": "2026-03-06",
+            "name": "Jordan Chambers",
+            "product_name": "Cookies",
+            "category": "Groceries",
+            "region": "East",
+            "quantity": 1,
+            "total_value": 319.55
+        },
+        {
+            "date": "2026-03-06",
+            "name": "Sandra Aguilar",
+            "product_name": "Rice Pack",
+            "category": "Groceries",
+            "region": "East",
+            "quantity": 1,
+            "total_value": 189.81
+        },
+        {
+            "date": "2026-03-06",
+            "name": "Kimberly May",
+            "product_name": "Mattress",
+            "category": "Home",
+            "region": "North",
+            "quantity": 2,
+            "total_value": 51.74
+        },
+        {
+            "date": "2026-03-06",
+            "name": "Sherry Davis",
+            "product_name": "Sunglasses",
+            "category": "Fashion",
+            "region": "East",
+            "quantity": 2,
+            "total_value": 622.56
+        },
+        {
+            "date": "2026-03-05",
+            "name": "Carolyn James",
+            "product_name": "Cereal",
+            "category": "Groceries",
+            "region": "West",
+            "quantity": 1,
+            "total_value": 27.05
+        },
+        {
+            "date": "2026-03-05",
+            "name": "Kimberly Smith",
+            "product_name": "Mattress",
+            "category": "Home",
+            "region": "North",
+            "quantity": 1,
+            "total_value": 25.87
+        },
+        {
+            "date": "2026-03-05",
+            "name": "Kelly Le",
+            "product_name": "Office Chair",
+            "category": "Home",
+            "region": "North",
+            "quantity": 1,
+            "total_value": 425.85
+        },
+        {
+            "date": "2026-03-05",
+            "name": "Allison Spencer",
+            "product_name": "Air Purifier",
+            "category": "Home",
+            "region": "Central",
+            "quantity": 2,
+            "total_value": 81.84
+        },
+        {
+            "date": "2026-03-05",
+            "name": "Sarah Pittman",
+            "product_name": "Tomato Sauce",
+            "category": "Groceries",
+            "region": "East",
+            "quantity": 1,
+            "total_value": 467.35
+        },
+        {
+            "date": "2026-03-05",
+            "name": "Brian Martin",
+            "product_name": "Air Purifier",
+            "category": "Home",
+            "region": "West",
+            "quantity": 3,
+            "total_value": 122.76
+        },
+        {
+            "date": "2026-03-05",
+            "name": "John Costa",
+            "product_name": "Chocolate Bar",
+            "category": "Groceries",
+            "region": "Central",
+            "quantity": 1,
+            "total_value": 144.53
+        },
+        {
+            "date": "2026-03-05",
+            "name": "Jennifer Miles",
+            "product_name": "Jeans",
+            "category": "Fashion",
+            "region": "North",
+            "quantity": 8,
+            "total_value": 1005.12
+        }
+    ]
+}
