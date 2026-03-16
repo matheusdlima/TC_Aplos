@@ -4,6 +4,7 @@ import { RevenueChart } from './RevenueChart';
 import { GenericPodium, type PodiumItem } from './GenericPodium';
 import { SalesByCategoryChart } from './SalesByCategoryChart';
 import { TransactionTable } from './TransactionTable';
+import { BusinessInsights } from './BusinessInsights';
 
 export const Dashboard: React.FC = () => {
     // custom hook to fetch data from the backend API
@@ -63,6 +64,8 @@ export const Dashboard: React.FC = () => {
                 <h1 className="text-3xl font-bold text-gray-200">Sales Analytics</h1>
                 <p className="text-xl text-gray-200 mt-2">Overview of business performance</p>
             </header>
+            
+            <BusinessInsights />
 
             {/* main grid */}
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">

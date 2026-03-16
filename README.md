@@ -1,9 +1,9 @@
-1. Ontology (Conceptual Model)
-    For this challenge, I designed the ontology inspired by the Palantir Foundry ecosystem. Instead of a traditional Entity-Relationship Diagram (ERD) focused strictly on database storage (foreign keys and strict cardinalities), I built a Semantic Model.
+## 1. Ontology (Conceptual Model)
+For this challenge, I designed the ontology inspired by the Palantir Foundry ecosystem. Instead of a traditional Entity-Relationship Diagram (ERD) focused strictly on database storage (foreign keys and strict cardinalities), I built a Semantic Model.
 
-    This approach maps the real-world domain into a Knowledge Graph consisting of Objects (entities), Properties (attributes/metrics), Actions (business operations), and Links (semantic connections).
+This approach maps the real-world domain into a Knowledge Graph consisting of Objects (entities), Properties (attributes/metrics), Actions (business operations), and Links (semantic connections).
 
-    The visual model:
+#### The visual model:
 ```mermaid
 classDiagram
     class Customer {
