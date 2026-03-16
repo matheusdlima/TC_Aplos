@@ -175,6 +175,24 @@ npm run dev
 
 The app is usually available at http://localhost:5173
 
+### 5. Run tests
+This project includes automated tests for both the Python ETL layer and the Node.js/TypeScript API.
+
+- Python tests (ETL)
+
+```bash
+pytest test_etl_pipeline.py
+```
+
+- API tests (TypeScript/Node)
+
+```bash
+cd backend
+npm test
+```
+
+These commands validate the core data pipeline behavior and the main API endpoints
+
 ## 3. Business Insights
 
 By analyzing the data points and cross-referencing the different widgets on the dashboard (Endpoints), several actionable business insights can be derived:
